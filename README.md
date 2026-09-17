@@ -11,6 +11,22 @@ solver, data file, or script interpreter required.
 
 ![Playfair Cipher Breaker](docs/screenshot.png)
 
+## Getting the application
+
+There are two ways to get up and running.
+
+### Option 1: Download the prebuilt executable
+
+Download `PlayfairBreaker.exe` from the
+[latest release](https://github.com/minouse3/playfair-cipher/releases/latest).
+It is a portable Windows executable: no installer, external data file, or
+runtime is required. Run it and continue with [Usage](#usage) below.
+
+### Option 2: Build it yourself
+
+Build the executable from source. See [Requirements](#requirements) and
+[Building](#building) below.
+
 ## Features
 
 - Load a plain-text ciphertext file and break it with one click.
