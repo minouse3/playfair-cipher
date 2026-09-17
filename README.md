@@ -155,5 +155,5 @@ LICENSE                    MIT license text
 
 This project is released under the MIT License. It is derived from
 [Colossus](https://github.com/stblake/colossus), which is also MIT licensed
-(Copyright (c) 2023 Sam Blake). The original copyright notice is retained; see
+(Copyright © 2023 Sam Blake). The original copyright notice is retained; see
 the [LICENSE](LICENSE) file for the full text.
