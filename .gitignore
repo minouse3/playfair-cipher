@@ -1,0 +1,17 @@
+# Build artifacts
+*.exe
+*.o
+*.res
+*.obj
+*.pdb
+*.ilk
+
+# PlayfairTest.exe is produced by the console test build
+PlayfairTest.exe
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
